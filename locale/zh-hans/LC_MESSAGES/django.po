@@ -91,58 +91,58 @@ msgstr ""
 # see thejoewoods.com/blackletter and https://yaytext.com/fraktur/
 #: ob/api/base.py:41 ob/api/base.py:132
 msgid "𝕭𝖆𝖟𝖆𝖆𝖗 𝕯𝖔𝖌"
-msgstr ""
+msgstr "芭莎犬"
 
 # Please translate
 #: ob/api/base.py:43 ob/api/base.py:134
-msgid "Bazaar Dog"
-msgstr ""
+msgid "Bazaar Dog" 
+msgstr "芭莎犬"
 
 # Please translate
 # see thejoewoods.com/blackletter and https://yaytext.com/fraktur/
 #: ob/api/base.py:132
-msgid "𝔓𝔯𝔬𝔣𝔦𝔩𝔢𝔰"
-msgstr ""
+msgid "𝔓𝔯𝔬𝔣𝔦𝔩𝔢𝔰" 
+msgstr "资料"
 
 # Please translate
 #: ob/api/base.py:134
 msgid "Profiles"
-msgstr ""
+msgstr "资料"
 
 # Not used
 #: ob/api/filter.py:72
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 # Not used
 #: ob/api/filter.py:73
 msgid "A search term."
-msgstr ""
+msgstr "搜索关键词"
 
 # Please translate
 #: ob/api/param_dev.py:12
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 # Please translate
 #: ob/api/param_dev.py:25 ob/api/param_dev.py:42
 msgid "Online"
-msgstr ""
+msgstr "线上"
 
 # Please translate
 #: ob/api/param_dev.py:26 ob/api/param_profile.py:150
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 # Please translate
 #: ob/api/param_dev.py:35
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 # Please translate
 #: ob/api/param_listing.py:20 ob/api/param_profile.py:51
 msgid "Bitcoin Cash"
-msgstr ""
+msgstr "比特币现金"
 
 # Please translate
 #: ob/api/param_listing.py:21 ob/api/param_profile.py:52
@@ -153,38 +153,38 @@ msgstr ""
 #: ob/api/param_listing.py:29 ob/api/param_profile.py:60 ob/models.py:127
 #: ob/models.py:141 ob/models.py:632 ob/models.py:647
 msgid "Any"
-msgstr ""
+msgstr "任何"
 
 # Please translate
 #: ob/api/param_listing.py:102 ob/api/param_profile.py:126
 msgid "Hide"
-msgstr ""
+msgstr "隐藏"
 
 # Please translate
 #: ob/api/param_listing.py:102 ob/api/param_profile.py:127
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 # Please translate
 #: ob/api/param_listing.py:102 ob/api/param_profile.py:128
 msgid "Only NSFW"
-msgstr ""
+msgstr "只有NSFW"
 
 # Please translate (leave variable ( {place} ) in translation)
 #: ob/api/param_listing.py:239
 #, python-brace-format
 msgid "to {place}"
-msgstr ""
+msgstr "去"
 
 # Please Translate
 #: ob/api/param_listing.py:241
 msgid "to Anywhere"
-msgstr ""
+msgstr "到任何地方"
 
 # Please Translate
 #: ob/api/param_listing.py:278 ob/api/param_profile.py:217
 msgid "Main Network"
-msgstr ""
+msgstr "主要网络"
 
 # Please Translate
 #: ob/api/param_listing.py:278 ob/api/param_profile.py:217
